@@ -1,0 +1,29 @@
+{
+  "name": "kepha-nodejs",
+  "version": "1.0.0",
+  "description": "Coding Nodjs Projects",
+  "main": "3-modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaypha/nodejs.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Lessons",
+    "and",
+    "projects"
+  ],
+  "author": "Kepha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaypha/nodejs/issues"
+  },
+  "homepage": "https://github.com/Kaypha/nodejs#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  }
+}
